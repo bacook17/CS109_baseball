@@ -1,8 +1,12 @@
 .DS_Store
 *~
 <<<<<<< HEAD
+<<<<<<< HEAD
 .ipynb_checkpoints/*
 data/db_*.p
+=======
+.ipynb_checkpoints/*
+>>>>>>> 1fb26757a2f714da1527e1f0fbd251997afa95fa
 =======
 .ipynb_checkpoints/*
 >>>>>>> 1fb26757a2f714da1527e1f0fbd251997afa95fa
